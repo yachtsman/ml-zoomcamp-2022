@@ -3,7 +3,7 @@ Homework & Projects by Sergii Tarasenko
 
 **1. Introduction to Machine Learning**
 
-* [Homework](01-intro/homework.md)
+* [Homework](01-intro/01-Homework_st.ipynb)
 
 **2. Machine Learning for Regression**
 
