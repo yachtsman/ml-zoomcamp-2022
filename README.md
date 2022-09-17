@@ -7,7 +7,7 @@ Homework & Projects by Sergii Tarasenko
 
 **2. Machine Learning for Regression**
 
-* TBA
+* [Homework](02-regression/02-Homework_st.ipynb)
 
 **3. Machine Learning for Classification**
 
