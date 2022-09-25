@@ -11,7 +11,7 @@ Homework & Projects by Sergii Tarasenko
 
 **3. Machine Learning for Classification**
 
-* TBA
+* [Homework](03-classification/03-Homework_st.ipynb)
 
 **4. Evaluation Metrics for Classification**
 
