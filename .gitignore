@@ -2,3 +2,4 @@
 compute_hash.ipynb
 *.csv
 */.ipynb_checkpoints/*.ipynb
+.ipynb_checkpoints/*.ipynb
