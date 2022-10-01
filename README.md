@@ -15,7 +15,7 @@ Homework & Projects by Sergii Tarasenko
 
 **4. Evaluation Metrics for Classification**
 
-* TBA
+* [Homework](04-evaluation/04-Homework_st.ipynb)
 
 **5. Deploying Machine Learning Models**
 
